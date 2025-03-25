@@ -1,0 +1,15 @@
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\bin\Debug\net8.0\SelectionStatementsExercise2.exe
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\bin\Debug\net8.0\SelectionStatementsExercise2.deps.json
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\bin\Debug\net8.0\SelectionStatementsExercise2.runtimeconfig.json
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\bin\Debug\net8.0\SelectionStatementsExercise2.dll
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\bin\Debug\net8.0\SelectionStatementsExercise2.pdb
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net8.0\SelectionStatementsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net8.0\SelectionStatementsExercise2.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net8.0\SelectionStatementsExercise2.AssemblyInfo.cs
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net8.0\SelectionStatementsExercise2.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net8.0\SelectionStatementsExercise2.sourcelink.json
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net8.0\SelectionStatementsExercise2.dll
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net8.0\refint\SelectionStatementsExercise2.dll
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net8.0\SelectionStatementsExercise2.pdb
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net8.0\SelectionStatementsExercise2.genruntimeconfig.cache
+C:\Users\micha\Desktop\repos\Selection-Statement-Exercise-2\SelectionStatementsExercise2\obj\Debug\net8.0\ref\SelectionStatementsExercise2.dll
